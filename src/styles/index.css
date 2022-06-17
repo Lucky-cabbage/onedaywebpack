@@ -1,0 +1,16 @@
+.sff{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-image: url(../assets/logo_small.png);
+  }
+  
+  .box2 {
+    width: 100px;
+    height: 100px;
+    background-image: url(../assets/1.gif);
+  }
